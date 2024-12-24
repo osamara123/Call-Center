@@ -1,7 +1,12 @@
-A VoIP-based Call Center/PBX
+# The American University in Cairo - School of Sciences and Engineering
+- Department of Electronics and Communication Engineering
+- Course Title: Telecommunication Systems (ECNG 4308) – Fall 2024
+- Instructor: Dr. Yasser Gadallah
 
-I. Project Description
-In this project, 3-member teams will be using the “Asterisk communications center” as the base
+### A VoIP-based Call Center/PBX
+# I. Project Description
+
+##In this project, 3-member teams will be using the “Asterisk communications center” as the base
 of a VoIP based call center system. It is required to design and implement a call center for a startup
 company to receive and direct customer calls to the available agents. The agents are grouped into
 Arabic, English and French speakers. Therefore, your system has to be able to provide an options
@@ -25,8 +30,10 @@ a while to gauge customer satisfaction. The system must save the call history lo
 about calls in case they need to be investigated later by system administrators/designers when/if
 needed. The system must have a user-friendly interface for its operations (e.g. as opposed to having
 to edit files manually, etc.).
-II. Project Milestones and Guidelines
-You are required to design and implement the system as described above, while each team is
+
+# II. Project Milestones and Guidelines
+
+##You are required to design and implement the system as described above, while each team is
 additionally required to implement a unique system feature (see the group-specific feature list at
 the end of this file) according to the following milestones:
 1- Phase I: System installation and design
@@ -41,10 +48,9 @@ the end of this file) according to the following milestones:
 • Prepare a full physical system demo that includes the necessary PC
 stations/servers, phones, etc.
 
-This feature is also included within the call-center system
-Feature 6
+
+# Additional Feature
 When multiple customers call the company at the same time, the system should place them in a
 queue, and prioritize their calls based on predefined criteria. For example, VIP customers or
 customers calling with urgent issues should be prioritized and their calls routed to the front of the
 queue.
-
